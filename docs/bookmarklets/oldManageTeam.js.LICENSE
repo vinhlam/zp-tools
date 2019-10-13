@@ -1,0 +1,23 @@
+/*!*******************************************!*\
+  !*** ./src/bookmarklets/oldManageTeam.js ***!
+  \*******************************************/
+
+/*! no exports provided */
+
+/*!**************************************************!*\
+  !*** ./src/components/manage/manageTeamUtils.js ***!
+  \**************************************************/
+
+/*! exports provided: getRiderData, totalCalculator */
+
+/*!*********************************!*\
+  !*** ./src/components/utils.js ***!
+  \*********************************/
+
+/*! exports provided: getValue, toMinutes, getSquadName, splitSquadName, getTeamList, getSquadList, getTTTData */
+
+/*!*******************************************!*\
+  !*** ./src/services/ManageTeamService.js ***!
+  \*******************************************/
+
+/*! exports provided: default */
